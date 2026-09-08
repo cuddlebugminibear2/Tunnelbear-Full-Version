@@ -240,4 +240,4 @@ This repository serves as the official landing page for TunnelBear. The software
 **Get the most recent version of TunnelBear today!**
 
 ---
-**Last updated:** 2026-09-08 18:16:19 UTC
+**Last updated:** 2026-09-08 21:32:34 UTC
